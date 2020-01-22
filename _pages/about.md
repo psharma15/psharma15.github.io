@@ -29,7 +29,15 @@ Publications
 
 Projects
 =====
-
+## [Respiratory Pattern Monitoring with RF Near-Field Coherent Sensing (NCS) Cornell University](https://psharma15.github.io/RF-Vital-Sensing/)
+##### Prof. Edwin Kan (August 2016 - Present)
+  * Developed a real-time over-clothing cardiopulmonary sensor by a software-defined radio to collect detailed respiratory and heartbeat waveforms.
+  * Designed and implemented a testing protocol to perform human study (N = 30) on simulated breathing disorders and apnea.
+  * Implemented a nearly tuning-free peak-detection algorithm to identify respiratory disorder with broad frequency range of 2-40 breaths per minute (BPM), which achieved high rate accuracy of 94.8% (RMSE: 2.9 BPM) and respiratory volume accuracy of 77.5% (RMSE: 0.11 L) under simulated deep, fast and central sleep apnea conditions.
+  * Designed a semi-supervised support-vector machine (SVM) outlier-classification algorithm to detect motion artifacts with an accuracy of 91%.
+  * Designed and implemented a bed-integrated sensor for sleep apnea detection in collaboration with Cornell Weill medical sleep center. The sensor is invisible to the user with improved antenna design and placement to measure separate thorax and abdomen motion.
+  * Programmed an attention test protocol on PsyToolkit for a large-scale human study to evaluate stress/attention using both respiratory and heartbeat characteristics from the NCS sensor.
+  
 ## Indoor Imaging from RFID Tag Backscatter for Real-Time People Tracking Cornell University
 ##### Profs Edwin Kan and David Hysell (January 2016 - Present)
   * Implemented novel sparsity-based OMP and FISTA reconstruction algorithms for high resolution RF imaging, using untagged-object backscattered phase from ambient low-cost passive UHF RFID tags.
@@ -41,23 +49,14 @@ and spatial diversity.
   * Developed an optimal frequency selection algorithm for a broad bandwidth, multi-frequency setup to generate improved Fourier-reconstructed image based on improved sampling in the K-space.
   * Tested super-resolution imaging based Capon and maximum entropy algorithms, which provided improved performance over matchedfiltering for shape estimation with increased computational and time complexity.
   
-## [Respiratory Pattern Monitoring with RF Near-Field Coherent Sensing (NCS) Cornell University](https://psharma15.github.io/RF-Vital-Sensing/)
-##### Prof. Edwin Kan (August 2016 - Present)
-  * Developed a real-time over-clothing cardiopulmonary sensor by a software-defined radio to collect detailed respiratory and heartbeat waveforms.
-  * Designed and implemented a testing protocol to perform human study (N = 30) on simulated breathing disorders and apnea.
-  * Implemented a nearly tuning-free peak-detection algorithm to identify respiratory disorder with broad frequency range of 2-40 breaths per minute (BPM), which achieved high rate accuracy of 94.8% (RMSE: 2.9 BPM) and respiratory volume accuracy of 77.5% (RMSE: 0.11 L) under simulated deep, fast and central sleep apnea conditions.
-  * Designed a semi-supervised support-vector machine (SVM) outlier-classification algorithm to detect motion artifacts with an accuracy of 91%.
-  * Designed and implemented a bed-integrated sensor for sleep apnea detection in collaboration with Cornell Weill medical sleep center. The sensor is invisible to the user with improved antenna design and placement to measure separate thorax and abdomen motion.
-  * Programmed an attention test protocol on PsyToolkit for a large-scale human study to evaluate stress/attention using both respiratory and heartbeat characteristics from the NCS sensor.
-
 ## Accuracy and Resources Trade-off in Machine Learning Algorithms Cornell University
 ##### Course: CS 6780 Advanced Machine Learning (January - May 2019)
   * Developed approximation techniques to tackle constrained-resource issues with large training data and limited CPU, memory and energy
 availability, specifically in mobile devices.
   * Studied accuracy vs resource trade-off with different approximation techniques at both training and inference in machine learning algorithms including regression, neural networks and SVM.
   
-##Online Trainable Near-Field Communication (NFC) Reader Maxim Integrated
-#####Internship: Harry Huang, Micros, Security & Software Business Unit (May - August 2017)
+## Online Trainable Near-Field Communication (NFC) Reader Maxim Integrated
+##### Internship: Harry Huang, Micros, Security & Software Business Unit (May - August 2017)
   * Programmed an NFC reader model including analog frontend and digital baseband processing in Python. Implemented new modulation protocols on output of the existing hardware to predict future challenges.
   * Developed intelligent multi-class classification algorithm using a simple neural network architecture to perform digital data demodulation, which achieved low test error of 1% for optimal conditions, and 11% with low coupling efficiency and high noise.
   * Implemented a real-time trainable setup for testing the experimental data from the reader, resulting in low test error of < 2%.
