@@ -1,8 +1,8 @@
 ---
 title: "Indoor Imaging from RFID Tag Backscatter for Real-Time People Tracking"
-collection: teaching
+collection: projects
 teaching_type: "Peer learning group"
-permalink: /teaching/indoor-rf-imaging
+permalink: /projects/indoor-rf-imaging
 institution: "Cornell University"
 date: January 2016
 excerpt: "This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects."
