@@ -1,8 +1,8 @@
 ---
-title: "Projects"
 layout: collection
-permalink: /projects/
+title: "Projects"
 collection: projects
+permalink: /projects/
 author_profile: false
 ---
 
