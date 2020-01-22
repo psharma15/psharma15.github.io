@@ -4,7 +4,7 @@ collection: teaching
 teaching_type: "Peer learning group"
 permalink: /teaching/indoor-rf-imaging
 institution: "Cornell University"
-date: "January 2016 - Present"
+date: January 2016
 excerpt: "This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects."
 ---
 
