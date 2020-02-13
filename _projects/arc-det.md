@@ -2,6 +2,7 @@
 title: "Low-Voltage Arc Detection and Sensor Placement"
 excerpt: "This project implemented arc classification algorithm, and optimal arc sensor placement algorithm in a grid."
 permalink: /projects/arc-det
+collection: projects
 ---
 {% include base_path %}
 This project implemented arc classification algorithm, and optimal arc sensor placement algorithm in a grid.
