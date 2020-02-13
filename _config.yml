@@ -121,6 +121,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - "*.pdf"
   - "files/*.pdf"
   - _projects
   - _publications
