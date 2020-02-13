@@ -4,7 +4,7 @@ excerpt: "This project implemented arc classification algorithm, and optimal arc
 permalink: /projects/arc-det
 collection: projects
 ---
-{% include base_path %}
+
 This project implemented arc classification algorithm, and optimal arc sensor placement algorithm in a grid.
 
   * Developed an algorithm for low-voltage (230 V, 50 Hz) arc characterization and classification from other spikes using k-means clustering of PSD spectral distance measurements, achieving high accuracy > 96%.
