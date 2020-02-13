@@ -1,8 +1,9 @@
 ---
 title: "Indoor Imaging from RFID Tag Backscatter for Real-Time People Tracking"
 excerpt: "This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects."
+permalink: /projects/indoor-img
 ---
-
+{% include base_path %}
 This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects.
 
   * Implemented novel sparsity-based OMP and FISTA reconstruction algorithms for high resolution RF imaging, using untagged-object backscattered phase from ambient low-cost passive UHF RFID tags.
