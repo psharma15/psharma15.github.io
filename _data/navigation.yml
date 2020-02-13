@@ -8,8 +8,8 @@ main:
   #- title: "Presentation"
   #  url: /talks/    
     
-  - title: "Projects"
-    url: /expressions/
+  #- title: "Projects"
+  #  url: /expressions/
 
   - title: "Projects"
     url: /projects/
