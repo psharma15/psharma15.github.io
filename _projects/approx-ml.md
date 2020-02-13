@@ -4,7 +4,7 @@ excerpt: "This project implements novel high resolution Radio-Frequency (RF) ima
 permalink: /projects/approx-ml
 collection: projects
 ---
-{% include base_path %}
+
 
 This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects.
 
