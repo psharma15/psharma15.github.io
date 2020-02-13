@@ -1,9 +1,11 @@
 ---
 title: "Respiratory Pattern Monitoring with RF Near-Field Coherent Sensing (NCS)"
 excerpt: "This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects."
+permalink: /projects/vital_sign
 ---
+{% include base_path %}
 
-This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects.
+This project implements a low-cost wearable RF sensor for monitoring heartbeat and respiratory patterns and detect central and obstructive sleep apneas.
 
   * Developed a real-time over-clothing cardiopulmonary sensor by a software-defined radio to collect detailed respiratory and heartbeat waveforms. 
   * Designed and implemented a testing protocol to perform human study (N = 30) on simulated breathing disorders and apnea.
