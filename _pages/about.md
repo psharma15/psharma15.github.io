@@ -13,7 +13,7 @@ I'm a fifth year PhD student at School of Electrical and Computer Engineering, C
 
 *I'm currently looking for work opportunities in the field of data analysis, algorithm development, biomedical electronics and wireless system applications.*
 
-Link to my <a href="../../../files/Pragya_Sharma_CV.pdf/" target="_blank">CV</a>.
+Link to my <a href="https://psharma15.github.io/files/Pragya_Sharma_CV.pdf/" target="_blank">CV</a>.
 
 Publications
 =====
