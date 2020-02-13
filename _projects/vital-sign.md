@@ -4,7 +4,7 @@ excerpt: "This project implements novel high resolution Radio-Frequency (RF) ima
 permalink: /projects/vital_sign
 collection: projects
 ---
-{% include base_path %}
+
 
 This project implements a low-cost wearable RF sensor for monitoring heartbeat and respiratory patterns and detect central and obstructive sleep apneas.
 
