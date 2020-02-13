@@ -123,7 +123,6 @@ include:
   - _pages
   - "*.pdf"
   - "files/*.pdf"
-  - _projects
   - _publications
 exclude:
   - "*.sublime-project"
