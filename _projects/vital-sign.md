@@ -7,6 +7,8 @@ permalink: /projects/vital_sign
 
 This project implements a low-cost wearable RF sensor for monitoring heartbeat and respiratory patterns and detect central and obstructive sleep apneas.
 
+Project details can be found here: [RF Vital Sensing.](https://psharma15.github.io/RF-Vital-Sensing/)
+
   * Developed a real-time over-clothing cardiopulmonary sensor by a software-defined radio to collect detailed respiratory and heartbeat waveforms. 
   * Designed and implemented a testing protocol to perform human study (N = 30) on simulated breathing disorders and apnea.
   * Implemented a nearly tuning-free peak-detection algorithm to identify respiratory disorder with broad frequency range of 2-40 breaths per minute (BPM), which achieved high rate accuracy of 94.8% (RMSE: 2.9 BPM) and respiratory volume accuracy of 77.5% (RMSE: 0.11 L) under simulated deep, fast and central sleep apnea conditions.
