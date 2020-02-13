@@ -11,8 +11,8 @@ main:
   #- title: "Projects"
   #  url: /expressions/
 
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
