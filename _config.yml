@@ -240,15 +240,15 @@ defaults:
   #    author_profile: true
   #    share: true
   #    comments: true
-  ## _contact
-  #- scope:
-  #    path: ""
-  #    type: contact
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true    
+  # _expressions
+  - scope:
+      path: ""
+      type: expressions
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true   
       
   # _portfolio
   - scope:
