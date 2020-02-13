@@ -4,7 +4,7 @@ excerpt: "This project implemented machine learning digital data demodulation."
 permalink: /projects/ai-reader
 collection: projects
 ---
-{% include base_path %}
+
 This project implemented machine learning digital data demodulation.
 
   * Programmed an NFC reader model including analog front-end and digital baseband processing in Python. Implemented new modulation protocols on output of the existing hardware to predict future challenges.
