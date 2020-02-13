@@ -2,6 +2,7 @@
 title: "Respiratory Pattern Monitoring with RF Near-Field Coherent Sensing (NCS)"
 excerpt: "This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects."
 permalink: /projects/vital_sign
+collection: projects
 ---
 {% include base_path %}
 
