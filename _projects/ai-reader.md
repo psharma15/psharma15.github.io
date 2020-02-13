@@ -1,7 +1,7 @@
 ---
 title: "Online Trainable Near-Field Communication (NFC) Reader"
 excerpt: "This project implemented machine learning digital data demodulation."
-permalink: /projects/:title
+permalink: /projects/ai-reader
 ---
 
 This project implemented machine learning digital data demodulation.
