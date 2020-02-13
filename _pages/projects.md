@@ -6,6 +6,8 @@ permalink: /projects/
 author_profile: false
 ---
 
-{% for post in site.pages %}
+{% include base_path %}
+
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
