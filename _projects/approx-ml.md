@@ -1,7 +1,9 @@
 ---
 title: "Accuracy and Resources Trade-off in Machine Learning Algorithms"
 excerpt: "This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects."
+permalink: /projects/approx-ml
 ---
+{% include base_path %}
 
 This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects.
 
