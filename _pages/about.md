@@ -20,7 +20,9 @@ Publications
 =====
   * **P. Sharma**, G. Xu, D. L. Hysell and E. C. Kan, “Multistatic 3D Indoor RF Imaging With Sparsity-Based Reconstruction,” 2020. _(Under Submission)_
 
-  * **P. Sharma**, J. Zhou, X. Hui and E. C. Kan, “Long-Term Continuous Cardiopulmonary Monitoring Using Wearable RF Sensor,” 2020. _(Under Submission)_
+  * **P. Sharma**, X. Hui, J. Zhou, T.Conroy and E. C. Kan, “Robust Continuous Cardiopulmonary Monitoring Using Wearable RF Sensors,” 2020. _(Under Submission)_
+  
+  * J. Zhou, **P. Sharma**, X. Hui, E. C. Kan, "A Wireless Wearable RF Sensor for Brumation Study of Chelonians," 2020. _(Under Submission)_
 
   * G. Xu, **P. Sharma**, X. Hui and E. C. Kan, “3D Device-Free Object Locating Using Passive Radio-Frequency Identification,” 2020. _(Under Submission)_
 
