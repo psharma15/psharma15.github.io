@@ -10,19 +10,20 @@ redirect_from:
 ---
 {% include base_path %}
 
-I'm a fifth year PhD student at School of Electrical and Computer Engineering, Cornell University, advised by [Prof. Edwin Kan](https://kan.ece.cornell.edu/). My current research projects are on Radio Frequency (RF) sensor systems for indoor people tracking and [cardiopulmonary monitoring](https://psharma15.github.io/RF-Vital-Sensing/), focusing on RF system design, signal processing and inverse problems. 
+I'm a fifth year PhD student at School of Electrical and Computer Engineering, Cornell University, advised by [Prof. Edwin Kan](https://kan.ece.cornell.edu/). My current research projects are on Radio Frequency (RF) sensor systems for [indoor people tracking](https://psharma15.github.io/CLEAR/) and [cardiopulmonary monitoring](https://psharma15.github.io/RF-Vital-Sensing/), focusing on RF system design, signal processing and inverse problems. 
 
-*I'm currently looking for work opportunities in the field of data analysis, algorithm development, biomedical electronics and wireless system applications.*
+*I'm currently looking for job opportunities.*
 
 Link to my <a href="/Pragya_Sharma_CV.pdf" target="_blank">CV</a>.
 
 Publications
 =====
-  * **P. Sharma**, G. Xu, D. L. Hysell and E. C. Kan, “Multistatic 3D Indoor RF Imaging With Sparsity-Based Reconstruction,” 2020. _(Under Submission)_
 
-  * **P. Sharma**, J. Zhou, X. Hui and E. C. Kan, “Long-Term Continuous Cardiopulmonary Monitoring Using Wearable RF Sensor,” 2020. _(Under Submission)_
-
-  * G. Xu, **P. Sharma**, X. Hui and E. C. Kan, “3D Device-Free Object Locating Using Passive Radio-Frequency Identification,” 2020. _(Under Submission)_
+  * **P. Sharma**, X. Hui, J. Zhou, T.Conroy and E. C. Kan, “Wearable Radio Frequency Sensor for Respiratory Rate, Respiratory Volume and Heart RateMonitoring,” 2020. _(Under Review)_
+  
+  * G. Xu, **P. Sharma**, X. Hui and E. C. Kan, “3D Device-Free Object Locating Using Passive Radio-Frequency Identification,” 2020. _(Under Review)_
+    
+  * J. Zhou, **P. Sharma**, X. Hui, E. C. Kan, "A Wireless Wearable RF Sensor for Brumation Study of Chelonians," in _IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology_, 2020.
 
   * **P. Sharma**, X. Hui and E. C. Kan, “A Wearable RF Sensor for Monitoring Respiratory Patterns,” at _IEEE Engineering in Medicine and Biology Society Conference (EMBC),_ Berlin, Germany, July 23-27, 2019, pp. 1217-1223.
 
