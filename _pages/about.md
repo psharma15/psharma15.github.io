@@ -21,7 +21,7 @@ Publications
 
   * **P. Sharma**, X. Hui, J. Zhou, T.Conroy and E. C. Kan, “ “Wearable Radio Frequency Sensor for Respiratory Rate, Respiratory Volume and Heart RateMonitoring,,” 2020. _(Under Review)_
   
-    * G. Xu, **P. Sharma**, X. Hui and E. C. Kan, “3D Device-Free Object Locating Using Passive Radio-Frequency Identification,” 2020. _(Under Review)_
+  * G. Xu, **P. Sharma**, X. Hui and E. C. Kan, “3D Device-Free Object Locating Using Passive Radio-Frequency Identification,” 2020. _(Under Review)_
     
   * J. Zhou, **P. Sharma**, X. Hui, E. C. Kan, "A Wireless Wearable RF Sensor for Brumation Study of Chelonians," in _IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology_, 2020.
 
