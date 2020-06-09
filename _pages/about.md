@@ -18,13 +18,12 @@ Link to my <a href="/Pragya_Sharma_CV.pdf" target="_blank">CV</a>.
 
 Publications
 =====
-  * **P. Sharma**, G. Xu, D. L. Hysell and E. C. Kan, “Multistatic 3D Indoor RF Imaging With Sparsity-Based Reconstruction,” 2020. _(Under Submission)_
 
-  * **P. Sharma**, X. Hui, J. Zhou, T.Conroy and E. C. Kan, “Robust Continuous Cardiopulmonary Monitoring Using Wearable RF Sensors,” 2020. _(Under Submission)_
+  * **P. Sharma**, X. Hui, J. Zhou, T.Conroy and E. C. Kan, “ “Wearable Radio Frequency Sensor for Respiratory Rate, Respiratory Volume and Heart RateMonitoring,,” 2020. _(Under Review)_
   
-  * J. Zhou, **P. Sharma**, X. Hui, E. C. Kan, "A Wireless Wearable RF Sensor for Brumation Study of Chelonians," 2020. _(Under Submission)_
-
-  * G. Xu, **P. Sharma**, X. Hui and E. C. Kan, “3D Device-Free Object Locating Using Passive Radio-Frequency Identification,” 2020. _(Under Submission)_
+    * G. Xu, **P. Sharma**, X. Hui and E. C. Kan, “3D Device-Free Object Locating Using Passive Radio-Frequency Identification,” 2020. _(Under Review)_
+    
+  * J. Zhou, **P. Sharma**, X. Hui, E. C. Kan, "A Wireless Wearable RF Sensor for Brumation Study of Chelonians," in _IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology_, 2020.
 
   * **P. Sharma**, X. Hui and E. C. Kan, “A Wearable RF Sensor for Monitoring Respiratory Patterns,” at _IEEE Engineering in Medicine and Biology Society Conference (EMBC),_ Berlin, Germany, July 23-27, 2019, pp. 1217-1223.
 
