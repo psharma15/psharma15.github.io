@@ -23,13 +23,13 @@ Publications
   
   * G. Xu, **P. Sharma**, X. Hui and E. C. Kan, “3D Device-Free Object Locating Using Passive Radio-Frequency Identification,” 2020. _(Under Review)_
     
-  * J. Zhou, **P. Sharma**, X. Hui, E. C. Kan, "A Wireless Wearable RF Sensor for Brumation Study of Chelonians," in _IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology_, 2020.
+  * J. Zhou, **P. Sharma**, X. Hui, E. C. Kan, "A Wireless Wearable RF Sensor for Brumation Study of Chelonians," in _IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology_, 2020. [Link] (https://doi.org/10.1109/JERM.2020.2998761)
 
-  * **P. Sharma**, X. Hui and E. C. Kan, “A Wearable RF Sensor for Monitoring Respiratory Patterns,” at _IEEE Engineering in Medicine and Biology Society Conference (EMBC),_ Berlin, Germany, July 23-27, 2019, pp. 1217-1223.
+  * **P. Sharma**, X. Hui and E. C. Kan, “A Wearable RF Sensor for Monitoring Respiratory Patterns,” at _IEEE Engineering in Medicine and Biology Society Conference (EMBC),_ Berlin, Germany, July 23-27, 2019, pp. 1217-1223. [Link] (https://doi.org/10.1109/EMBC.2019.8857870)
 
-  * D. L. Hysell, **P. Sharma**, M. Urco and M. A. Milla, “Aperture-Synthesis Radar Imaging With Compressive Sensing for Ionospheric Research,” in _Radio Science_, vol. 54, pp. 503– 516 , 2019.
+  * D. L. Hysell, **P. Sharma**, M. Urco and M. A. Milla, “Aperture-Synthesis Radar Imaging With Compressive Sensing for Ionospheric Research,” in _Radio Science_, vol. 54, pp. 503– 516 , 2019. [Link] (https://doi.org/10.1029/2019RS006805)
 
-  * X. Hui, **P. Sharma** and E. C. Kan, “Microwave Stethoscope for Heart Sound by Near-Field Coherent Sensing,” at _IEEE MTT-S International Microwave Symposium (IMS)_ Boston, MA, June 2 - 7, 2019.
+  * X. Hui, **P. Sharma** and E. C. Kan, “Microwave Stethoscope for Heart Sound by Near-Field Coherent Sensing,” at _IEEE MTT-S International Microwave Symposium (IMS)_ Boston, MA, June 2 - 7, 2019. [Link] (https://doi.org/10.1109/MWSYM.2019.8700904)
 
-  * **P. Sharma** and E. C. Kan, “Sleep Scoring With a UHF RFID Tag by Near Field Coherent Sensing,” at _IEEE MTT-S International Microwave Symposium (IMS)_, Philadelphia, PA, June 10 - 15, 2018, pp. 1419-1422.
+  * **P. Sharma** and E. C. Kan, “Sleep Scoring With a UHF RFID Tag by Near Field Coherent Sensing,” at _IEEE MTT-S International Microwave Symposium (IMS)_, Philadelphia, PA, June 10 - 15, 2018, pp. 1419-1422. [Link] (https://doi.org/10.1109/MWSYM.2018.8439216)
 
