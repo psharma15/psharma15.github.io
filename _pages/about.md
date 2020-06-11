@@ -19,7 +19,7 @@ Link to my <a href="/Pragya_Sharma_CV.pdf" target="_blank">CV</a>.
 Publications
 =====
 
-  * **P. Sharma**, X. Hui, J. Zhou, T.Conroy and E. C. Kan, “Wearable Radio Frequency Sensor for Respiratory Rate, Respiratory Volume and Heart RateMonitoring,” 2020. _(Under Review)_
+  * **P. Sharma**, X. Hui, J. Zhou, T.Conroy and E. C. Kan, “Wearable Radio Frequency Sensor for Respiratory Rate, Respiratory Volume and Heart RateMonitoring,” in _npj Digital Medicine_, 2020. _(Accepted)_
   
   * G. Xu, **P. Sharma**, X. Hui and E. C. Kan, “3D Device-Free Object Locating Using Passive Radio-Frequency Identification,” 2020. _(Under Review)_
     
