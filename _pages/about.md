@@ -35,5 +35,5 @@ Publications
 
   * X. Hui, **P. Sharma** and E. C. Kan, “Microwave Stethoscope for Heart Sound by Near-Field Coherent Sensing,” at _IEEE MTT-S International Microwave Symposium (IMS)_ Boston, MA, June 2 - 7, 2019. [Link](https://doi.org/10.1109/MWSYM.2019.8700904)
 
-  * **P. Sharma** and E. C. Kan, “Sleep Scoring With a UHF RFID Tag by Near Field Coherent Sensing,” at _IEEE MTT-S International Microwave Symposium (IMS)_, Philadelphia, PA, June 10 - 15, 2018, pp. 1419-1422. [Link] (https://doi.org/10.1109/MWSYM.2018.8439216)
+  * **P. Sharma** and E. C. Kan, “Sleep Scoring With a UHF RFID Tag by Near Field Coherent Sensing,” at _IEEE MTT-S International Microwave Symposium (IMS)_, Philadelphia, PA, June 10 - 15, 2018, pp. 1419-1422. [Link](https://doi.org/10.1109/MWSYM.2018.8439216)
 
