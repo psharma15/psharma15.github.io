@@ -19,7 +19,7 @@ Link to my <a href="/Pragya_Sharma_CV.pdf" target="_blank">CV</a>.
 Publications
 =====
 
-  * **P.Sharma**, A. Jalali, M. Majmudar, K. S. Rajput, N. Selvaraj, "Deep-Learning based Sleep Apnea Detection using SpO2 and Pulse Rate," at _IEEE Engineering in Medicine and Biology Society Conference (EMBC)_, Glasgow, Scotland, 2022. [Link](https://doi.org/10.1109/EMBC48229.2022.9871295)
+  * **P. Sharma**, A. Jalali, M. Majmudar, K. S. Rajput, N. Selvaraj, "Deep-Learning based Sleep Apnea Detection using SpO2 and Pulse Rate," at _IEEE Engineering in Medicine and Biology Society Conference (EMBC)_, Glasgow, Scotland, 2022. [Link](https://doi.org/10.1109/EMBC48229.2022.9871295)
     
   * **P. Sharma**, Z. Zhang, T. B. Conroy, X. Hui, E. C. Kan, "Attention Detection by Heartbeat and Respiratory Features from Radio-Frequency Sensor," in _Sensors_, 2022. [Link](https://doi.org/10.3390/s22208047)
 
