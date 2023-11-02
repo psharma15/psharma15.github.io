@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pragya Sharma"
 title_separator          : "-"
 name                     : &name "Pragya Sharma"
-description              : &description "PhD Candidate at Cornell University"
+description              : &description "PhD, Cornell University"
 url                      : https://psharma15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "psharma15/psharma15.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Pragya Sharma"
   avatar           : "profile2.jpg"
-  bio              : "PhD Candidate at School of Electrical and Computer Engineering, Cornell University, <a style='color: black;' href='https://kan.ece.cornell.edu/people/'>Prof. Edwin Kan Group</a>"
-  location         : "Ithaca, NY 14850"
+  bio              : "PhD, School of Electrical and Computer Engineering, Cornell University, <a style='color: black;' href='https://kan.ece.cornell.edu/people/'>Prof. Edwin Kan Group</a>"
+  location         : "NYC Metropolitan Area"
   employer         : 
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=5pxbliIAAAAJ&hl=en
