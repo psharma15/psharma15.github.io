@@ -10,7 +10,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-I'm a sixth year PhD student at School of Electrical and Computer Engineering, Cornell University, advised by [Prof. Edwin Kan](https://kan.ece.cornell.edu/). My current research projects are on Radio Frequency (RF) sensor systems for [indoor people tracking](https://psharma15.github.io/CLEAR/) and [cardiopulmonary monitoring](https://psharma15.github.io/RF-Vital-Sensing/), focusing on RF systems, biomedical sensors, signal processing and algorithms, machine learning and artificial intelligence. 
+I completed my PhD at School of Electrical and Computer Engineering, Cornell University, advised by [Prof. Edwin Kan](https://kan.ece.cornell.edu/). My research project focused on Radio Frequency (RF) sensor systems for [indoor people tracking](https://psharma15.github.io/CLEAR/) and [cardiopulmonary monitoring](https://psharma15.github.io/RF-Vital-Sensing/), including areas of RF systems, biomedical sensors, signal processing and algorithms, machine learning and artificial intelligence. 
 
 *I'm currently looking for job opportunities.*
 
