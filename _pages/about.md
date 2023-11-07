@@ -14,7 +14,7 @@ I completed my PhD at School of Electrical and Computer Engineering, Cornell Uni
 
 *I'm currently looking for job opportunities.*
 
-Link to my <a href="/Pragya_Sharma_Resume_2023.pdf" target="_blank">CV</a>.
+Link to my <a href="/Pragya_Sharma_Resume_2023.pdf" target="_blank">Resume</a>.
 
 Publications
 =====
