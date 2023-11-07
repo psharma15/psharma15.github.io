@@ -12,8 +12,7 @@ redirect_from:
 
 I completed my PhD in Electrical and Computer Engineering at Cornell University, under the supervision of [Professor Edwin Kan](https://kan.ece.cornell.edu/). My research focused on Radio-Frequency (RF) sensor systems for [indoor people tracking](https://psharma15.github.io/CLEAR/) and [cardiopulmonary monitoring](https://psharma15.github.io/RF-Vital-Sensing/), encompassing RF systems, biomedical sensors, signal processing and algorithms, machine learning, and artificial intelligence.
 
-After PhD, I worked at Biofourmis, a Boston-based company that provides intelligent remote patient monitoring (RPM), I developed respiratory biomarkers and sleep apnea detection and severity estimation algorithms using SpO2 and PR. I also improved vital alerts, generated alert trend visualizations, and derived alert performance factors to support the core business RPM platform.
-
+After my PhD, I worked at Biofourmis, a Boston-based company that provides intelligent remote patient monitoring (RPM). I used signal processing to develop respiratory biomarkers and deep learning to develop sleep apnea detection and severity estimation algorithms using wearable PPG and IMU sensor signals. I also improved vital alerts, generated alert trend visualizations, and derived alert performance factors to support the core RPM platform.
 
 *I'm currently looking for job opportunities.*
 
