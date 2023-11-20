@@ -3,13 +3,12 @@ permalink: /projects/
 title: "Projects"
 excerpt: "Projects"
 author_profile: true
-redirect_from: 
-  - /projects/
   
 ---
 {% include base_path %}
 
+{% include base_path %}
 
-{% for post in site.projects %}
+{% for post in site.projects reversed %}
   {% include archive-single.html %}
 {% endfor %}
