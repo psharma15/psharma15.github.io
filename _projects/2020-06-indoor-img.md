@@ -9,7 +9,7 @@ collection: projects
 
 This project implemented novel high-resolution Radio-Frequency (RF) imaging in the indoor environment to monitor untagged people or objects.
 
-**Project details and code can be found here: [CLEAR](https://github.com/psharma15/CLEAR)**
+**Project details and code can be found here: [CLEAR](https://psharma15.github.io/CLEAR/)**
 
 * Implemented novel sparsity-based OMP and FISTA reconstruction algorithms for high-resolution RF imaging, using untagged-object backscattered phase from ambient low-cost passive UHF RFID tags.
 * Developed simulation study in CST Microwave Studio to compare relative tag-receiver placement and algorithm performance.
