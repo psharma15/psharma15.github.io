@@ -9,7 +9,7 @@ collection: projects
 
 This project implemented a low-cost wearable RF sensor for monitoring heartbeat and respiratory patterns and detect central and obstructive sleep apneas.
 
-Further project details can be found here: [RF Vital Sensing.](https://psharma15.github.io/RF-Vital-Sensing/)
+**Project details and code can be found here: [RF Vital Sensing](https://psharma15.github.io/RF-Vital-Sensing/)**
 
   * Developed a real-time over-clothing cardiopulmonary sensor using a software-defined radio to collect detailed respiratory and heartbeat waveforms. 
   * Designed and implemented a testing protocol to perform a human study (N = 30) on simulated breathing disorders and apnea.
