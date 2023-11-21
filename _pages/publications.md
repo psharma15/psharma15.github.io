@@ -7,7 +7,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-Publications
 =====
 
   * **P. Sharma**, A. Jalali, M. Majmudar, K. S. Rajput, N. Selvaraj, "Deep-Learning based Sleep Apnea Detection using SpO2 and Pulse Rate," at _IEEE Engineering in Medicine and Biology Society Conference (EMBC)_, Glasgow, Scotland, 2022. [Link](https://doi.org/10.1109/EMBC48229.2022.9871295)
