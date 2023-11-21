@@ -2,14 +2,14 @@
 main:
   - title: "About Me"
     url: /about/
-  #- title: "Publications"
-  #  url: /articles/
+  - title: "Publications"
+    url: /publications/
 
   #- title: "Presentation"
   #  url: /talks/    
     
-  #- title: "Projects"
-  #  url: /expressions/
+  - title: "Projects"
+    url: /projects/
 
   #- title: "Projects"
   #  url: /projects/
@@ -20,5 +20,5 @@ main:
   #- title: "CV"
   #  url: /cv/
   
-  #- title: "Contact"
-  #  url: /contact/
+  - title: "Contact"
+    url: /contact/
