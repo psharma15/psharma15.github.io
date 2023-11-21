@@ -1,6 +1,6 @@
 ---
-title: "Indoor Imaging from RFID Tag Backscatter for Real-Time People Tracking"
-excerpt: "This project implements novel high resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects."
+title: "CLEAR: Counting and Location Estimate using Ambient Radio signals"
+excerpt: "This project implements novel high-resolution Radio-Frequency (RF) imaging in indoor environment to monitor untagged people or objects."
 permalink: /projects/indoor-img
 collection: projects
 ---
@@ -8,6 +8,8 @@ collection: projects
 *2015-2020*
 
 This project implemented novel high-resolution Radio-Frequency (RF) imaging in the indoor environment to monitor untagged people or objects.
+
+**Project details and code can be found here: [CLEAR](https://github.com/psharma15/CLEAR)**
 
 * Implemented novel sparsity-based OMP and FISTA reconstruction algorithms for high-resolution RF imaging, using untagged-object backscattered phase from ambient low-cost passive UHF RFID tags.
 * Developed simulation study in CST Microwave Studio to compare relative tag-receiver placement and algorithm performance.
@@ -19,3 +21,5 @@ and spatial diversity.
 image based on K-space sampling.
 * Tested super-resolution imaging based Capon and maximum entropy algorithms, which provided improved performance over matched filtering
 for shape estimation with increased computational and time complexity.
+
+
