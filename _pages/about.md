@@ -15,7 +15,7 @@ I am a multi-disciplinary researcher focused on advancing **digital healthcare**
 **Academic Focus**: 
 My PhD research at Cornell University, under the supervision of [Professor Edwin Kan](https://kan.ece.cornell.edu/), focused on developing novel radio frequency (RF) sensor systems for assisted living applications, detailed in my thesis on [Radio Frequency sensor applications for assisted living](https://ecommons.cornell.edu/items/d4c14ad8-fdbd-4f0d-8228-27502e579a1e). I combined expertise in RF systems, signal processing, machine learning, and biomedical sensors, to create innovative solutions for:
 1. Continuous cardiopulmonary monitoring (Funding: NIH, DoD CDMRP) [Link](https://psharma15.github.io/RF-Vital-Sensing/)
-  - Developed *wearable near‑field RF sensor prototype* for abnormal respiration monitoring.
+  - Developed *wearable near‑field RF sensor prototype* for abnormal respiration monitoring & *signal processing* algorithms for respiratory biomarkers detection in 2-40 BrPM range.
   - Designed and performed an IRB approved *human study* involving simulation of *breathing disorders, apnea, and user attention*. 
   - Collaboration with *Cornell Weill Medical Sleep Center* to collect patient data for sleep apnea detection.
     
