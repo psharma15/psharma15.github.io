@@ -17,7 +17,7 @@ My PhD research at Cornell University, under the supervision of [Professor Edwin
 1. Continuous cardiopulmonary monitoring (Funding: NIH, DoD CDMRP) [Link](https://psharma15.github.io/RF-Vital-Sensing/)
   - Developed *wearable near‑field RF sensor prototype* for abnormal respiration monitoring & *signal processing* algorithms for respiratory biomarkers detection in 2-40 BrPM range.
   - Designed and performed an IRB approved *human study* involving simulation of *breathing disorders, apnea, and user attention*. 
-  - Collaboration with *Cornell Weill Medical Sleep Center* to collect patient data for sleep apnea detection.
+  - Collaborated with *Cornell Weill Medical Sleep Center* to collect patient data for sleep apnea detection.
     
 2. Assisted living based occupant counting & location estimation (Funding: DoE ARPA‑E)) [Link](https://psharma15.github.io/CLEAR/)
   - Performed *indoor un‑tagged occupant counting* using ML for occupants in different postures.
