@@ -19,7 +19,7 @@ My PhD research at Cornell University, under the supervision of [Professor Edwin
   - Designed and performed an IRB approved *human study* involving simulation of *breathing disorders, apnea, and user attention*. 
   - Collaborated with *Cornell Weill Medical Sleep Center* to collect patient data for sleep apnea detection.
     
-2. Assisted living based occupant counting & location estimation (Funding: DoE ARPA‑E)) [Link](https://psharma15.github.io/CLEAR/)
+2. Assisted living-based occupant counting & location estimation (Funding: DoE ARPA‑E) [Link](https://psharma15.github.io/CLEAR/)
   - Performed *indoor un‑tagged occupant counting* using ML for occupants in different postures.
   - Developed algorithm for *high-resolution 3D occupant image reconstruction* for location estimation.
   - Developed a 1/6 scale prototype to show *real-time demo* in *ARPA-E summit* 2019.
