@@ -16,14 +16,14 @@ I am a multi-disciplinary researcher focused on advancing **digital healthcare**
 My PhD research at Cornell University, under the supervision of [Professor Edwin Kan](https://kan.ece.cornell.edu/), focused on developing novel RF sensor systems for assisted living applications, detailed in my thesis on [Radio Frequency sensor applications for assisted living](https://ecommons.cornell.edu/items/d4c14ad8-fdbd-4f0d-8228-27502e579a1e). I combined expertise in RF systems, signal processing, machine learning, and biomedical sensors, to create innovative solutions for:
 1. Cardiopulmonary monitoring using novel near-field RF sensor (Funding: NIH, DoD CDMRP) [link](https://psharma15.github.io/RF-Vital-Sensing/)
   - Developed *wearable near‑field radio frequency (RF) sensor prototype* for abnormal respiration monitoring.
-  - Designed and performed an IRB approved *human study (N = 30)* involving simulation of breathing disorders, apnea and user attention. 
+  - Designed and performed an IRB approved *human study (N = 30)* involving simulation of *breathing disorders, apnea and user attention*. 
   - Used signal processing to extract *respiratory biomarkers*: respiratory rate (RR) with 94.8% accuracy and respiratory volume with 0.11L RMSE for 2-40 BrPM RR range.
   - Designed and implemented bed‑integrated sensor for sleep apnea detection in collaboration with *Cornell Weill Medical Sleep Center* to collect patient data.
     
 2. Indoor occupant counting and location estimation in assisted living (Funding: DoE ARPA‑E)) [Link](https://psharma15.github.io/CLEAR/)
-  - Used passive RFID tag backscattered signal for indoor un‑tagged occupant counting using ML‑CNN model with high accuracy of 93% for up to 5 subjects in different postures. 
+  - Used passive RFID tag backscattered signal for *indoor un‑tagged occupant counting* using ML‑CNN model with high accuracy of 93% for up to 5 subjects in different postures. 
   - Developed a 1/6 scale prototype to show *real-time demo* in ARPA-E summit 2019.
-  - Performed high-resolution 3D occupant image reconstruction using novel sparsity‑based OMP & FISTA algorithms, with improved resolution than traditional matched‑filtering and Capon’s method.
+  - Performed *high-resolution 3D occupant image reconstruction* using novel sparsity‑based OMP & FISTA algorithms, with improved resolution than traditional matched‑filtering and Capon’s method.
 
 
 **Industry Experience**: 
