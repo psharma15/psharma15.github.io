@@ -31,9 +31,9 @@ After my PhD, I developed innovative remote patient monitoring (RPM) solutions a
 * Developed DL-based sleep apnea detection and severity estimation algorithms using SpO2 and PR signals, presented at *IEEE EMBC 2022*, offering a non-invasive and at-home approach for diagnosis and continuous apnea monitoring.
 * Contributed to the core RPM platform by tracking vital alert performance, performing case studies, and responding to escalations, ultimately leading to a reduction in false SpO2 alerts due to noisy signals.
 
-**Research Interests: Digital healthcare, Noninvasive physiological monitoring, Wearable sensing, Signal processing, Machine Learning & Artificial Intelligence, Biomedical engineering **
+**Research Interests: Digital healthcare, Noninvasive physiological monitoring, Wearable sensing, Signal processing, Machine Learning & Artificial Intelligence, Biomedical engineering**
 
-*I'm currently looking for the next exciting research opportunity in the above fields. Please reach out to me at sharmapragya.sp@gmail.com. * 
+*I'm currently looking for the next exciting research opportunity in the above fields. Please reach out to me at sharmapragya.sp@gmail.com.* 
 
 Link to my <a href="/Pragya_Sharma_Resume_2023.pdf" target="_blank">Resume</a>.
 
