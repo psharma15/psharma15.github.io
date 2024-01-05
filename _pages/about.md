@@ -33,7 +33,7 @@ After my PhD, I developed innovative remote patient monitoring (RPM) solutions a
 
 **Research Interests: Digital healthcare, Noninvasive physiological monitoring, Wearable sensing, Signal processing, Machine Learning & Artificial Intelligence, Biomedical engineering**
 
-*I'm currently looking for the next exciting research opportunity in the above fields. Please reach out to me at sharmapragya.sp@gmail.com.* 
+*I am currently looking for the next exciting research opportunity in the above fields. Please reach out to me at sharmapragya.sp@gmail.com.* 
 
 Link to my <a href="/Pragya_Sharma_Resume_2023.pdf" target="_blank">Resume</a>.
 
