@@ -10,8 +10,8 @@ collection: projects
 This project implemented novel high-resolution Radio-Frequency (RF) imaging in the indoor environment to monitor untagged people or objects.
 
 <p align="center">
-  <img width="850" src="../images/arpae_setup_2_label.png?raw=true">  
-  <figcaption>ARPA-E summit occupant localization demonstration with a 1/6 scaled model The screen shows the detected locations of two figures in the model.</figcaption>
+  <img width="600" src="../images/arpae_setup_2_label.png?raw=true">  
+  <figcaption>ARPA-E summit occupant localization demonstration with a 1/6 scaled model. The screen shows detected locations of two figures in the model.</figcaption>
 </p>
 
 **Project details and code can be found here: [CLEAR](https://psharma15.github.io/CLEAR/)**
@@ -29,6 +29,6 @@ for shape estimation with increased computational and time complexity.
 
 <p align="center">
   <img src="../images/ompResultCalib42.gif" width="400px">
-  <em align="center">True and detected occupant loacations using 3D image reconstruction in a real-life setup.</em>
+  <figcaption>True and detected occupant locations using 3D image reconstruction in a real-life setup.</figcaption>
 </p>
 
