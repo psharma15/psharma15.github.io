@@ -11,7 +11,7 @@ This project implemented novel high-resolution Radio-Frequency (RF) imaging in t
 
 <p align="center">
   <img width="850" src="../images/arpae_setup_2_label.png?raw=true">
-  <em align="center">ARPA-E summit occupant localization demonstration with a 1/6 scaled model The screen shows the detected locations of two figures in the model.</em>
+  <figcaption>ARPA-E summit occupant localization demonstration with a 1/6 scaled model The screen shows the detected locations of two figures in the model.</figcaption>
 </p>
 
 **Project details and code can be found here: [CLEAR](https://psharma15.github.io/CLEAR/)**
