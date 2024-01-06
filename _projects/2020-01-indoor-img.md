@@ -10,7 +10,7 @@ collection: projects
 This project implemented novel high-resolution Radio-Frequency (RF) imaging in the indoor environment to monitor untagged people or objects.
 
 <p align="center">
-  <img width="850" src="../images/arpae_setup_2.jpeg">
+  <img width="850" src="../images/arpae_setup_2.jpg?raw=true">
   <em align="center"> ARPA-E summit occupant localization demonstration with a 1/6 scaled model The screen shows the detected locations of two figures in the model. </em>
 </p>
 
