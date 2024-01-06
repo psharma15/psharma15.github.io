@@ -28,7 +28,7 @@ image based on K-space sampling.
 for shape estimation with increased computational and time complexity.
 
 <p align="center">
-  <img src="../images/ompResultCalib42.gif" width="400px">
+  <img width="600" src="../images/ompResultCalib42.gif?raw=true">  
   <figcaption>True and detected occupant locations using 3D image reconstruction in a real-life setup.</figcaption>
 </p>
 
