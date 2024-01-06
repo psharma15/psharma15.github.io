@@ -9,6 +9,11 @@ collection: projects
 
 This project demonstrates a research prototype of a potentially low-cost wearable RF sensor for monitoring heartbeat and respiratory patterns and detecting central and obstructive sleep apneas.
 
+<p align="center">
+  <img width="600" src="../images/RF_setup.png?raw=true">  
+  <figcaption>Subject wearing RF NCS and reference sensors. Bottom-left shows respiration waveforms from RF NCS vs BIOPAC chest belts. Bottom-right shows extracted heartbeat waveform from NCS vs ECG and estimated HR.</figcaption>
+</p>
+
 **Project details and code can be found here: [RF Vital Sensing](https://psharma15.github.io/RF-Vital-Sensing/)**
 
   * Designed and implemented a testing protocol to perform an **IRB approved human study (N = 30)** on simulated breathing disorders including apnea and stress/attention.
