@@ -29,6 +29,6 @@ for shape estimation with increased computational and time complexity.
 
 <p align="center">
   <img src="../images/ompResultCalib42.gif" width="400px">
-  <em>True and detected occupant loacations using 3D image reconstruction in a real-life setup.</em>
+  <em align="center">True and detected occupant loacations using 3D image reconstruction in a real-life setup.</em>
 </p>
 
