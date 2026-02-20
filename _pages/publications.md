@@ -7,6 +7,13 @@ author_profile: true
 ---
 {% include base_path %}
 
+ * H. Zheng, **P. Sharma**, M. Johnson, M. Danieletto, E. Alleva, A. W. Charney, G. N. Nadkarni, C. Sarabu, B. M. Eskofier, Y. Ahuja, F. Richter, E. Klang, S. Gangadharan, F. Richter, E. Holmes, B. S. Glicksberg, "Integration of Artificial Intelligence and Wearable Devices in Pediatric Clinical Care: A Review," in _Bioengineering_, 2025. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12729400/)
+
+ * **P. Sharma**, M. Danieletto, J. K. Whang, K. Landell, D. Helmus, B. E. Sands, M. Suarez-Farinas, P. S. Gulko, R. P. Hirten, "Wearable devices detect physiological changes that precede and are associated with symptomatic and inflammatory rheumatoid arthritis flares," in _Scientific Reports_, 2025. [Link](https://www.nature.com/articles/s41598-025-29748-y)
+
+ * Z. Zhang, J. Zhou, T. B. Conroy, X. Hui, **P. Sharma**, G. Xu, K. Gangwar, U. Delay, A. Kapoor, E. C Kan, "Near-Field Radio Sensing for Biomedical, Biological, and Cyberphysical Intelligence," in _IEEE Sensors Letters_, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10411025)
+
+ * T. B. Conroy, X. Hui, **P. Sharma**, E. C. Kan, "Heart id: Biometric identification using wearable mimo rf heart sensors," in _IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology_, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9972848)
 
   * **P. Sharma**, A. Jalali, M. Majmudar, K. S. Rajput, N. Selvaraj, "Deep-Learning based Sleep Apnea Detection using SpO2 and Pulse Rate," at _IEEE Engineering in Medicine and Biology Society Conference (EMBC)_, Glasgow, Scotland, 2022. [Link](https://doi.org/10.1109/EMBC48229.2022.9871295)
     
