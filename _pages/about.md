@@ -10,30 +10,17 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am a multi-disciplinary researcher focused on advancing **digital healthcare** leveraging signal processing, deep learning, wearable sensing, and emerging technologies with 8 years of PhD and industry experience. 
+I am an interdisciplinary researcher working at the intersection of noninvasive sensing, signal processing, and artificial intelligence. My work focuses on translating continuous physiological data from bedside monitors and wearable devices into clinically meaningful insights that enable earlier detection of health changes and more personalized patient care.
 
-**Academic Focus**: 
-My PhD research at Cornell University, under the supervision of [Professor Edwin Kan](https://kan.ece.cornell.edu/), focused on developing novel radio frequency (RF) sensor systems for assisted living applications, detailed in my thesis on [Radio Frequency sensor applications for assisted living](https://ecommons.cornell.edu/items/d4c14ad8-fdbd-4f0d-8228-27502e579a1e). I combined expertise in RF systems, signal processing, machine learning, and biomedical sensors, to create innovative solutions for:
-1. Continuous cardiopulmonary monitoring (Funding: NIH, DoD CDMRP) [Link](https://psharma15.github.io/RF-Vital-Sensing/)
-  - Developed *wearable near‑field RF sensor prototype* for abnormal respiration monitoring & *signal processing* algorithms for respiratory biomarkers detection in 2-40 BrPM range.
-  - Designed and performed an IRB approved *human study* involving simulation of *breathing disorders, apnea, and user attention*. 
-  - Collaborated with *Cornell Weill Medical Sleep Center* to collect patient data for sleep apnea detection.
-    
-2. Assisted living-based occupant counting & location estimation (Funding: DoE ARPA‑E) [Link](https://psharma15.github.io/CLEAR/)
-  - Performed *indoor un‑tagged occupant counting* using ML for occupants in different postures.
-  - Developed algorithm for *high-resolution 3D occupant image reconstruction* for location estimation.
-  - Developed a 1/6 scale prototype to show *real-time demo* in *ARPA-E summit* 2019.
+I received my Ph.D. in Electrical and Computer Engineering from Cornell University, where I developed a novel wearable radio-frequency sensor for simultaneous respiratory and cardiac monitoring. This system was validated through studies conducted at the Weill Cornell Medical Sleep Center and in healthy participants.
 
+At Biofourmis, a digital health startup, I led research and development efforts in remote patient monitoring. My work included developing a deep-learning model for adult sleep apnea detection using pulse rate and oxygen saturation, designing wearable-based respiratory rate algorithms, and improving SpO₂ alert systems to reduce false alarms in at-home monitoring.
 
-**Industry Experience**: 
-After my PhD, I developed innovative remote patient monitoring (RPM) solutions at Biofourmis, a Boston-based healthcare startup. Leveraging my expertise in signal processing and deep learning, I:
-* Improved the accuracy of respiratory rate estimation using PPG and IMU sensors, resulting in a *US Patent* submission in October 2023.
-* Developed DL-based sleep apnea detection and severity estimation algorithms using SpO2 and PR signals, presented at *IEEE EMBC 2022*, offering a non-invasive and at-home approach for diagnosis and continuous apnea monitoring.
-* Contributed to the core RPM platform by tracking vital alert performance, performing case studies, and responding to escalations, ultimately leading to a reduction in false SpO2 alerts due to noisy signals.
+Currently, I am an Instructor in the Windreich Department of Artificial Intelligence and Human Health at the Icahn School of Medicine at Mount Sinai. In collaboration with clinicians across rheumatology, pediatrics, and cardiology, I apply AI to wearables, clinical and imaging data. My projects include predicting disease activity in rheumatoid arthritis using wearable devices, outcome prediction in transient tachypnea of the newborn, neonatal apnea detection, and echocardiogram-based assessment of diastolic dysfunction.
 
-**Research Interests: Digital healthcare, Noninvasive physiological monitoring, Wearable sensing, Signal processing, Machine Learning & Artificial Intelligence, Biomedical engineering**
+My long-term goal is to integrate continuous sensing and AI into scalable, real-world clinical solutions that advance precision health monitoring across acute and chronic care settings.
 
-*I am currently looking for the next exciting research opportunity in the above fields. Please reach out to me at sharmapragya.sp@gmail.com.* 
+*Skills*: Physiological signal processing, wearable sensor analytics, machine learning and deep learning, longitudinal time-series modeling, and AI-enabled clinical decision support.
 
-Link to my <a href="/Pragya_Sharma_Resume_2023.pdf" target="_blank">Resume</a>.
+Link to my <a href="/Pragya_Sharma_CV_2025.pdf" target="_blank">CV</a>.
 
