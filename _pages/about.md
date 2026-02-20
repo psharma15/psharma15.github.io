@@ -33,7 +33,12 @@ layout: single
 author_profile: true
 classes: wide
 excerpt: "AI + wearables + clinical time-series for digital health."
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+{% include base_path %}
+
 I am an interdisciplinary researcher working at the intersection of noninvasive sensing, signal processing, and artificial intelligence. My work focuses on translating continuous physiological data from bedside monitors and wearable devices into clinically meaningful insights that enable earlier detection of health changes and more personalized patient care.
 
 **Currently:** Instructor & Schmidt AI Fellow in the Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai, applying AI to wearables, clinical, and imaging data.
