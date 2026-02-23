@@ -24,18 +24,17 @@ My long-term goal is to integrate continuous sensing and AI into scalable, real-
 *Skills*: Physiological signal processing, wearable sensor analytics, machine learning and deep learning, longitudinal time-series modeling, and AI-enabled clinical decision support.
 
 Link to my <a href="/Pragya_Sharma_CV_2025.pdf" target="_blank">CV</a>.
--->
 
+-->
 ---
 permalink: /
-title: "Pragya Sharma"
-layout: single
-author_profile: true
-classes: wide
+title: "About"
 excerpt: "AI + wearables + clinical time-series for digital health."
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 {% include base_path %}
 
