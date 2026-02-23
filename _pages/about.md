@@ -22,7 +22,6 @@ My long-term goal is to integrate continuous sensing and AI into scalable, real-
 
 *Skills*: Physiological signal processing, wearable sensor analytics, machine learning and deep learning, longitudinal time-series modeling, and AI-enabled clinical decision support.
 
-Link to my <a href="/Pragya_Sharma_CV_2025.pdf" target="_blank">CV</a>.
 
 <!-- 
 ---
@@ -92,6 +91,8 @@ These projects extend AI development to clinically complex populations where phy
 My long-term goal is to integrate continuous sensing and AI into scalable, real-world clinical solutions that advance precision health monitoring across both acute and chronic care settings.
 
 ---
+Link to my <a href="/Pragya_Sharma_CV_2025.pdf" target="_blank">CV</a>.
+
 [View CV](/Pragya_Sharma_CV_2025.pdf){: .btn .btn--primary }  
 [Google Scholar](https://scholar.google.com/citations?user=uYz1FB4AAAAJ&hl=en){: .btn }
 -->
