@@ -8,7 +8,9 @@ collection: projects
 *2024-Present*
 
 **Problem**
-Although wearable devices generate continuous physiological data, their integration into specialty care workflows remains limited. Demonstrating clinical utility in complex diseases such as RA is essential for broader adoption.
+Rheumatoid arthritis (RA) is a chronic inflammatory autoimmune disease characterized by unpredictable flares that can lead to progressive joint damage and long-term disability. Importantly, RA is two- to three-fold more frequent in women than in men, and strong associations with sex hormones have been demonstrated — highlighting the complex and dynamic physiological mechanisms underlying disease activity.
+
+Despite advances in treatment, flare detection remains largely reactive and dependent on symptom reporting and intermittent clinical evaluation. Although wearable devices generate continuous physiological data, their integration into specialty rheumatology workflows remains limited. Demonstrating clinical utility in a biologically complex, predominantly female population such as RA is essential for broader adoption of digital monitoring tools.
 
 **Approach**
 Working within a clinical rheumatology setting, I evaluate how multimodal wearable-derived features can augment traditional clinical assessments. This includes studying associations between physiologic metrics, patient-reported symptoms, and inflammatory markers, and developing AI frameworks for flare prediction. 
