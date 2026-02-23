@@ -51,7 +51,7 @@ I am an interdisciplinary researcher working at the intersection of noninvasive 
 
 ## PhD: Wearable RF Sensing for Cardiorespiratory Monitoring
 
-![Wearable RF Sensor](/images/rf_sensor.jpg){: .align-right width="300px"}
+![Wearable RF Sensor](/images/rf_sensor.png){: .align-right width="300px"}
 
 I received my Ph.D. in Electrical and Computer Engineering from Cornell University, where I developed a novel wearable radio-frequency sensor for simultaneous respiratory and cardiac monitoring. The system enabled estimation of respiratory rate, respiratory volume, and heart rate using near-field RF sensing.
 
