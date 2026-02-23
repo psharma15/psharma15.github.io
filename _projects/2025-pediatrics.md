@@ -7,12 +7,12 @@ collection: projects
 #### Windreich Department of AI & Human Health, Instructor
 *2025-Present*
 
-**Problem**
+### Problem
 AI models in healthcare are predominantly developed in adult populations and often fail to generalize to neonates and children, where physiology is rapidly evolving, disease presentation is heterogeneous, and labeled datasets are limited.  
 
 There is a critical need for age-specific AI approaches that can support early diagnosis, risk stratification, and outcome prediction in pediatric care — particularly in high-acuity neonatal settings.
 
-**Approach**
+### Approach
 In collaboration with neonatology and cardiology clinicians, I develop AI models tailored to pediatric and neonatal datasets, focusing on clinically meaningful prediction tasks.
 
 Current areas of work include:
@@ -23,7 +23,7 @@ Current areas of work include:
 
 These projects emphasize careful pre-processing, multimodal data integration, and age-based data stratification appropriate for small and specialized datasets.
 
-**Impact**
+### Impact
 By designing AI systems specifically for neonatal and pediatric populations, this work aims to improve early risk identification and clinical decision support in settings where timely intervention is critical.  
 
 These efforts contribute toward building scalable, data-driven tools that enhance precision monitoring.
