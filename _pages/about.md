@@ -51,7 +51,7 @@ I am an interdisciplinary researcher working at the intersection of noninvasive 
 
 ## PhD: Wearable RF Sensing for Cardiorespiratory Monitoring
 
-![Wearable RF Sensor](/assets/images/rf_sensor.jpg){: .align-right width="300px"}
+![Wearable RF Sensor](/images/rf_sensor.jpg){: .align-right width="300px"}
 
 I received my Ph.D. in Electrical and Computer Engineering from Cornell University, where I developed a novel wearable radio-frequency sensor for simultaneous respiratory and cardiac monitoring. The system enabled estimation of respiratory rate, respiratory volume, and heart rate using near-field RF sensing.
 
@@ -61,7 +61,7 @@ This technology was validated through controlled human-subject studies and clini
 
 ## Digital Health Industry: Remote Patient Monitoring
 
-![Wearable Monitoring](/assets/images/wearable_monitoring.jpg){: .align-left width="300px"}
+![Wearable Monitoring](/wearable_monitoring.jpg){: .align-left width="300px"}
 
 At Biofourmis, a digital health startup, I led research and development efforts in remote patient monitoring systems deployed in real-world care settings.
 
@@ -77,7 +77,7 @@ These efforts supported scalable hospital-at-home and chronic disease monitoring
 
 ## Academic Medicine: AI for Complex Clinical Populations
 
-![AI in Healthcare](/assets/images/ai_healthcare.jpg){: .align-right width="300px"}
+![AI in Healthcare](/images/ai_healthcare.jpg){: .align-right width="300px"}
 
 Currently, in collaboration with clinicians across rheumatology, pediatrics, and cardiology, I apply AI methods to wearable, clinical, and imaging datasets. Ongoing projects include:
 
