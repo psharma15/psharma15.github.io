@@ -1,8 +1,7 @@
-<!--
 ---
 permalink: /
 title: "About"
-excerpt: "About me"
+excerpt: "AI + wearables + clinical time-series for digital health."
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,11 +24,10 @@ My long-term goal is to integrate continuous sensing and AI into scalable, real-
 
 Link to my <a href="/Pragya_Sharma_CV_2025.pdf" target="_blank">CV</a>.
 
--->
+<!-- 
 ---
 permalink: /
 title: "About"
-excerpt: "AI + wearables + clinical time-series for digital health."
 author_profile: true
 redirect_from: 
   - /about/
@@ -96,3 +94,4 @@ My long-term goal is to integrate continuous sensing and AI into scalable, real-
 ---
 [View CV](/Pragya_Sharma_CV_2025.pdf){: .btn .btn--primary }  
 [Google Scholar](https://scholar.google.com/citations?user=uYz1FB4AAAAJ&hl=en){: .btn }
+-->
