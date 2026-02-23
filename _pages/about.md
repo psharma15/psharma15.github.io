@@ -61,7 +61,7 @@ This technology was validated through controlled human-subject studies and clini
 
 ## Digital Health Industry: Remote Patient Monitoring
 
-![Wearable Monitoring](/wearable_monitoring.jpg){: .align-left width="300px"}
+![Wearable Monitoring](/images/wearable_monitoring.jpg){: .align-left width="300px"}
 
 At Biofourmis, a digital health startup, I led research and development efforts in remote patient monitoring systems deployed in real-world care settings.
 
