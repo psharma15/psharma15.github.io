@@ -33,8 +33,6 @@ Key components of the work included:
 - Engineering a bed-integrated RF system for **sleep apnea detection** in collaboration with the Weill Cornell Medical Sleep Center, including optimized antenna design to separately capture thoracic and abdominal motion  
 - Developing and programming an attention-detection protocol (Mackworth Clock Task) to study relationships between vigilance and cardiopulmonary dynamics  
 
----
-
 ### Impact
 
 This work represents one of the early demonstrations of near-field RF sensing for simultaneous respiratory and cardiac monitoring with strong signal robustness and clinical validation.  
