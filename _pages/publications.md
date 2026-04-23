@@ -7,7 +7,15 @@ author_profile: true
 ---
 {% include base_path %}
 
- * H. Zheng, **P. Sharma**, M. Johnson, M. Danieletto, E. Alleva, A. W. Charney, G. N. Nadkarni, C. Sarabu, B. M. Eskofier, Y. Ahuja, F. Richter, E. Klang, S. Gangadharan, F. Richter, E. Holmes, B. S. Glicksberg, "Integration of Artificial Intelligence and Wearable Devices in Pediatric Clinical Care: A Review," in _Bioengineering_, 2025. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12729400/)
+ * **P. Sharma***, A. Sawant, A. Vaid, G. N. Nadkarni, B. S. Glicksberg, S. Duong, "Deep Learning–Based Detection of Left Ventricular Diastolic Dysfunction in Pediatric Echocardiography," 2026. (Submitted)
+ 
+ * **P. Sharma***, J. Maslinski*, R. Reinhart, S. Krishna, F. Richter, B. S. Glicksberg, "Impact of Quality Improvement on Evaluation of Artificial Intelligence Model for Neonatal Respiratory Outcomes," 2026. (Submitted)
+
+ * J. Maslinski, V. Sorin, M. Zweig, **P. Sharma**, M. Danieletto, S. Gangadharan, A. Sakhuja, A. Sawant,  E. Klang, M. C. Schut, J. D. Collins, B. S. Glicksberg, "Generative Artificial Intelligence in Digital Health: A 2025 Narrative Review of Clinical Applications and Evaluation Trends," 2026. (Submitted)
+
+ * **P. Sharma**, M. Danieletto, J. K. Whang, K. Landell, D. Helmus, B. E. Sands, M. Suarez-Farinas, P. S. Gulko, R. P. Hirten, "Deep Learning Algorithms Using Wearable Device Data Predict Rheumatoid Arthritis Flares," 2026. (Submitted)
+   
+ * H. Zheng*, **P. Sharma***, M. Johnson, M. Danieletto, E. Alleva, A. W. Charney, G. N. Nadkarni, C. Sarabu, B. M. Eskofier, Y. Ahuja, F. Richter, E. Klang, S. Gangadharan, F. Richter, E. Holmes, B. S. Glicksberg, "Integration of Artificial Intelligence and Wearable Devices in Pediatric Clinical Care: A Review," in _Bioengineering_, 2025. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12729400/)
 
  * **P. Sharma**, M. Danieletto, J. K. Whang, K. Landell, D. Helmus, B. E. Sands, M. Suarez-Farinas, P. S. Gulko, R. P. Hirten, "Wearable devices detect physiological changes that precede and are associated with symptomatic and inflammatory rheumatoid arthritis flares," in _Scientific Reports_, 2025. [Link](https://www.nature.com/articles/s41598-025-29748-y)
 
@@ -44,3 +52,5 @@ author_profile: true
   * X. Hui, **P. Sharma** and E. C. Kan, “Microwave Stethoscope for Heart Sound by Near-Field Coherent Sensing,” at _IEEE MTT-S International Microwave Symposium (IMS)_, Boston, MA, June 2019. [Link](https://doi.org/10.1109/MWSYM.2019.8700904)
 
   * **P. Sharma** and E. C. Kan, “Sleep Scoring With a UHF RFID Tag by Near Field Coherent Sensing,” at _IEEE MTT-S International Microwave Symposium (IMS)_, Philadelphia, PA, June 2018. [Link](https://doi.org/10.1109/MWSYM.2018.8439216)
+
+\* Equal contribution
